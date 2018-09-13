@@ -1,4 +1,4 @@
-## REST API UNTUK REACT
+## REST API UNTUK REACT NATIVE
 
 Sebelum running project ini, langkah-langkah yang harus dilakukan:
 - setelah melakukan git clone/ download project ini, running `composer install`
